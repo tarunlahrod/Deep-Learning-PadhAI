@@ -1,7 +1,7 @@
 # Deep Learning Padhai
 This repo contains the material for deep learning course **Padhai** by One Fourth Labs ([padhai.onefourthlabs.in](padhai.onefourthlabs.in))
 <br>
-This repository contains following Python Notebooks.
+This repository contains following jupyter Notebooks.
 1. Python Basics
   * [Numpy tutorials](https://github.com/tarunlahrod/Deep-Learning-PadhAI/blob/master/1.%20Python%20Basics/Numpy%20Tutorial.ipynb)
   * [Plotting](https://github.com/tarunlahrod/Deep-Learning-PadhAI/blob/master/1.%20Python%20Basics/Plotting.ipynb)
